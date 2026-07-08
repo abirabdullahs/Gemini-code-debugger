@@ -2,6 +2,18 @@
 
 An AI-powered Streamlit application that analyzes programming error screenshots using Google's Gemini API.
 
+
+## Live Demo
+
+Try the deployed application here:
+
+**https://abirabdullahs-gemini-code-debugger-app-ptkxvb.streamlit.app/**
+
+Or click the link below:
+
+[AI Code Debugger Live Demo](https://abirabdullahs-gemini-code-debugger-app-ptkxvb.streamlit.app/)
+
+
 ## Features
 
 - Upload error screenshots (PNG, JPG, JPEG)
