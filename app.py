@@ -12,6 +12,7 @@ st.set_page_config(
 )
 
 st.title("AI Code Debugger")
+st.subheader("Developed by Abir Abdullah")
 st.write("Upload a screenshot of your code error and let Gemini analyze it.")
 
 default_api_key = os.getenv("GEMINI_API_KEY", "")
